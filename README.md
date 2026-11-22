@@ -1,2 +1,1 @@
-# PW Gold Tracker Pro
-Pronto para GitHub Pages.
+PW144 V3
